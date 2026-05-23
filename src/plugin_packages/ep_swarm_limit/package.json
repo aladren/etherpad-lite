@@ -1,0 +1,11 @@
+{
+  "name": "ep_swarm_limit",
+  "version": "0.0.1",
+  "description": "Character limit proof of concept for SWARM",
+  "main": "static/js/index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "engines": {
+    "node": ">=20.0.0"
+  }
+}
