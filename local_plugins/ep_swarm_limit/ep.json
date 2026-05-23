@@ -1,0 +1,10 @@
+{
+  "parts": [
+    {
+      "name": "swarm_limit",
+      "client_hooks": {
+        "postAceInit": "ep_swarm_limit/static/js/index:postAceInit"
+      }
+    }
+  ]
+}
