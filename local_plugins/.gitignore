@@ -1,3 +1,4 @@
-# ignore everything
-*
+# keep this folder available for local Etherpad plugins
 !.gitignore
+!ep_swarm_limit/
+!ep_swarm_limit/**
